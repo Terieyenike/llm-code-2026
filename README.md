@@ -67,7 +67,7 @@ This course teaches you how to build practical, production-ready LLM application
 
 - A complete project example: a fitness assistant built with LLMs
 
-### [Capstone Project](project.md)
+<!-- ### [Capstone Project](project.md)
 
 - Ship a complete end-to-end project of your choice from scratch
 
@@ -75,4 +75,4 @@ This course teaches you how to build practical, production-ready LLM application
 
 You'll build a complete, working RAG application.
 
-You'll build a searchable knowledge base, a retrieval pipeline, an evaluation process, a user-facing interface, and monitoring & feedback loops.
+You'll build a searchable knowledge base, a retrieval pipeline, an evaluation process, a user-facing interface, and monitoring & feedback loops. -->
