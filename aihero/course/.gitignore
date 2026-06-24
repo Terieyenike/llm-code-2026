@@ -8,3 +8,4 @@ __pycache__/
 .cursor/
 .ruff_cache/
 .venv/
+.ipynb_checkpoints/
